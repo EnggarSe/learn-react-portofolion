@@ -32,6 +32,12 @@ export default function Projek() {
                   <a href="https://mo-ok.netlify.com/"><button className="btn btn-light">Visit</button></a>
                </div>
             </div>
+            <div className="card" style={{ width: "12rem" }}>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSF5wAyvQ7V3IxNOLHW8cDuJz5L4vKaVAj0MbWbISKqEFraF8-v&usqp=CAU" className="card-img-top" alt="" />
+               <div className="card-body">
+                  <a href="https://react-crudd.netlify.app/LihatBarang"><button className="btn btn-light">Visit</button></a>
+               </div>
+            </div>
          </div>
       </div>
 
